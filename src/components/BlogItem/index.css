@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.titles {
+  font-family: 'Roboto';
+  color: #12022f;
+  font-size: 18px;
+}
+.date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+}
+.content {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+}
